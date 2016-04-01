@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: headed back to sculpture tomorrow
-datePublished: '2016-04-01T00:43:15.853Z'
-dateModified: '2016-04-01T00:43:02.954Z'
+datePublished: '2016-04-01T00:58:24.358Z'
+dateModified: '2016-04-01T00:56:13.840Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-01-headed-back-to-sculpture-tomorrow.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-headed-back-to-sculpture-tomorrow.md
-published: true
 url: headed-back-to-sculpture-tomorrow/index.html
 _type: Article
 
