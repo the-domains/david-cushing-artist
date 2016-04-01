@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[David Cushing artist]]></title>
         <description><![CDATA[David Cushing artist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-cushing-artist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 00:44:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 00:55:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-cushing-artist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sculpting Deleon]]></title>
+            <description><![CDATA[<article><h1>sculpting Deleon</h1><p>making head way...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a5f0de7-3478-4d2d-b02f-05b51e8c9c54.jpg"></article>]]></description>
+            <link>https://thegrid.ai/david-cushing-artist/sculpting-deleon/index.html</link>
+            <guid isPermaLink="false">ef8d8992-e242-4314-9021-7005b881ba6b</guid>
+            <pubDate>Fri, 01 Apr 2016 00:55:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e56d6cd8-0116-4b05-8663-7ec10f028079.jpg">]]></description>
-            <link>undefinedheaded-back-to-sculpture-tomorrow/index.html</link>
+            <link>https://thegrid.ai/david-cushing-artist/headed-back-to-sculpture-tomorrow/index.html</link>
             <guid isPermaLink="false">b7d60918-f8b0-402c-b6ba-ae8c0f3b551c</guid>
             <pubDate>Fri, 01 Apr 2016 00:43:15 GMT</pubDate>
         </item>
